@@ -1,5 +1,5 @@
 ## PayPal Payment Integration
- This repository showcases a streamlined integration of PayPal payment functionality into web applications. 
+ This Project showcases a streamlined integration of PayPal payment functionality into web applications. 
  It features a user-friendly payment form built with Bootstrap, designed for a modern and responsive user experience.
 
 ## Key Features:
@@ -21,5 +21,7 @@
 - Configure PayPal API credentials in your backend.
 - Customize the payment form as needed.
 - Deploy and start processing payments!
+
+  ## NOTE: This implementation uses PayPal's test environment. To enable live transactions, update the API credentials and configure your PayPal settings accordingly.
   
 # Feel free to explore and adapt this integration for your own projects.
