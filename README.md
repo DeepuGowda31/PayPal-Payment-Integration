@@ -22,6 +22,8 @@
 - Customize the payment form as needed.
 - Deploy and start processing payments!
 
+- Feel free to explore and adapt this integration for your own projects.
+
 ## NOTE: This implementation uses PayPal's test environment. To enable live transactions, update the API credentials and configure your PayPal settings accordingly.
   
-# Feel free to explore and adapt this integration for your own projects.
+
