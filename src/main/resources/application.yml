@@ -1,0 +1,8 @@
+paypal:
+  client-id: ATVbHpy-HX_CEuFKDCkYadkyQXDsuJP2xaz3gD_w4lrINm4coIG4X8w-A_HsbkFXlF5LnLaVk8cYfNeR
+  client-secret: EGM5yvieDsGjf0T3LvetazlfVdBrDSwl8W6nARpx5grWAjQO0lJf7oYe5yV-LYrUcCz3pDQAwx8syvJ-
+  mode: sandbox   # Use "SANDBX" for testing and "LIVE" for Production..
+  
+server:
+  port: 8084
+
